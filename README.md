@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Python Developer Roadmap — 2025 Edition
+# 🐍 Python Developer Roadmap 🐍
 ### *Complete Learning Path from Beginner to Expert*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,18,24&height=200&section=header&text=Python%20Developer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Master%20Python%20from%20Zero%20to%20Hero&descAlignY=55&descSize=18"/>
